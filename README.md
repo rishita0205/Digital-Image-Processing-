@@ -1,2 +1,2 @@
 # Digital-Image-Processing-
-#all code related to basic operation involving images
+#all codes related to basic operations involving images
